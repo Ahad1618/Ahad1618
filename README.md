@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahad1618
-- 👀 I’m interested in security related domains such as soc,digital forencist and siem
+- 👀 I’m interested in security related domains such as soc,digital forencics and siem
 - 🌱 I’m currently learning Kali distro of linux
   Some of my skills:
   Js,html,css,bootstrap,reactjs,cpp and c
